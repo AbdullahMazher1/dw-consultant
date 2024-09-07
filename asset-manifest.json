@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/dw-consultant/static/css/main.f095ec4a.css",
-    "main.js": "/dw-consultant/static/js/main.7b89214b.js",
+    "main.css": "/dw-consultant/static/css/main.9c09b6ae.css",
+    "main.js": "/dw-consultant/static/js/main.65ee13c1.js",
     "static/js/453.e9f08752.chunk.js": "/dw-consultant/static/js/453.e9f08752.chunk.js",
+    "static/media/0001.jpg": "/dw-consultant/static/media/0001.db5ba3c7217c366195a7.jpg",
+    "static/media/02.jpg": "/dw-consultant/static/media/02.0338d5763100efecdc48.jpg",
     "index.html": "/dw-consultant/index.html",
-    "main.f095ec4a.css.map": "/dw-consultant/static/css/main.f095ec4a.css.map",
-    "main.7b89214b.js.map": "/dw-consultant/static/js/main.7b89214b.js.map",
+    "main.9c09b6ae.css.map": "/dw-consultant/static/css/main.9c09b6ae.css.map",
+    "main.65ee13c1.js.map": "/dw-consultant/static/js/main.65ee13c1.js.map",
     "453.e9f08752.chunk.js.map": "/dw-consultant/static/js/453.e9f08752.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f095ec4a.css",
-    "static/js/main.7b89214b.js"
+    "static/css/main.9c09b6ae.css",
+    "static/js/main.65ee13c1.js"
   ]
 }
