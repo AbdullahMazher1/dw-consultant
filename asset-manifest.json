@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/dw-consultant/static/css/main.00a45e22.css",
-    "main.js": "/dw-consultant/static/js/main.f3ab0997.js",
-    "static/js/453.e9f08752.chunk.js": "/dw-consultant/static/js/453.e9f08752.chunk.js",
-    "static/media/about-1.jpg": "/dw-consultant/static/media/about-1.2c58754f0e9d8710db19.jpg",
-    "static/media/contact.jpg": "/dw-consultant/static/media/contact.74d415af1b740bce8f65.jpg",
-    "static/media/4.jpg": "/dw-consultant/static/media/4.ded87193ffeecd5257a7.jpg",
-    "static/media/about-2.jpg": "/dw-consultant/static/media/about-2.e4709cf431e16ae51116.jpg",
-    "static/media/0001.jpg": "/dw-consultant/static/media/0001.db5ba3c7217c366195a7.jpg",
-    "static/media/02.jpg": "/dw-consultant/static/media/02.0338d5763100efecdc48.jpg",
-    "static/media/courses.jpg": "/dw-consultant/static/media/courses.1a4dc79090a811e2a496.jpg",
-    "index.html": "/dw-consultant/index.html",
-    "main.00a45e22.css.map": "/dw-consultant/static/css/main.00a45e22.css.map",
-    "main.f3ab0997.js.map": "/dw-consultant/static/js/main.f3ab0997.js.map",
-    "453.e9f08752.chunk.js.map": "/dw-consultant/static/js/453.e9f08752.chunk.js.map"
+    "main.css": "./static/css/main.1f09007c.css",
+    "main.js": "./static/js/main.a353bb2c.js",
+    "static/js/453.e9f08752.chunk.js": "./static/js/453.e9f08752.chunk.js",
+    "static/media/card6.jpg": "./static/media/card6.9e8f17cbc8d0a51b8167.jpg",
+    "static/media/leadership.jpg": "./static/media/leadership.cf08ff7a797766893344.jpg",
+    "static/media/card7.jpg": "./static/media/card7.395f78aeb7f4b82be362.jpg",
+    "static/media/card3.jpg": "./static/media/card3.584010b47240d0ffa4f3.jpg",
+    "static/media/card1.jpg": "./static/media/card1.93e75f5b6e2bece981a5.jpg",
+    "static/media/card2.jpg": "./static/media/card2.753f0ec988a3fcfbdf37.jpg",
+    "static/media/card5.jpg": "./static/media/card5.245016825a5b0072734c.jpg",
+    "static/media/contact.jpg": "./static/media/contact.74d415af1b740bce8f65.jpg",
+    "static/media/card4.jpg": "./static/media/card4.5f766211c2482454afda.jpg",
+    "static/media/4.jpg": "./static/media/4.ded87193ffeecd5257a7.jpg",
+    "static/media/about-2.jpg": "./static/media/about-2.e4709cf431e16ae51116.jpg",
+    "static/media/0001.jpg": "./static/media/0001.db5ba3c7217c366195a7.jpg",
+    "static/media/02.jpg": "./static/media/02.0338d5763100efecdc48.jpg",
+    "static/media/courses.jpg": "./static/media/courses.1a4dc79090a811e2a496.jpg",
+    "static/media/lead.jpg": "./static/media/lead.529cbaf7acb67447d7a0.jpg",
+    "index.html": "./index.html",
+    "main.1f09007c.css.map": "./static/css/main.1f09007c.css.map",
+    "main.a353bb2c.js.map": "./static/js/main.a353bb2c.js.map",
+    "453.e9f08752.chunk.js.map": "./static/js/453.e9f08752.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00a45e22.css",
-    "static/js/main.f3ab0997.js"
+    "static/css/main.1f09007c.css",
+    "static/js/main.a353bb2c.js"
   ]
 }
